@@ -4,6 +4,9 @@
 * 📖Mechanical System Design Course , 4th year  
 * 🔧Robot Contest Club🔩
 
+beginner  
+Thank you for your time.
+
 <!--
 **Yuimyu/Yuimyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
