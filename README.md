@@ -4,7 +4,7 @@
 * 📖Mechanical System Design Course , 4th year  
 * 🔧Robot Contest Club🔩
 
-beginner  
+🔰beginner🔰  
 Thank you for your time.
 
 <!--
