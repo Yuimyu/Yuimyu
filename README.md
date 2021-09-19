@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-*Hachinohe National College of Technology
-*Mechanical System Design Course ,4th year
-*Robot Contest Club
+-Hachinohe National College of Technology  
+-Mechanical System Design Course ,4th year  
+-Robot Contest Club
 
 <!--
 **Yuimyu/Yuimyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
