@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🏫National Institute of Technology , Hachinohe College  
+ 🏫National Institute of Technology College  
  📖Mechanical System Design Course , 4th year  
  🔧Robot Contest Club🔩
 
