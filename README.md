@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  🏫National Institute of Technology College  
- 📖Mechanical System Design Course , 4th year  
+ 📖Mechanical System Design Course , 5th year  
  🔧Robot Contest Club🔩
 
 🔰beginner🔰  
